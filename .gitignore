@@ -1,0 +1,15 @@
+# Archivos de compilación
+target/
+*.class
+*.log
+
+# IDEs
+.idea/
+*.iml
+.bsp/
+.metals/
+.bloop/
+
+# Archivos generados
+project/project/
+project/target/
