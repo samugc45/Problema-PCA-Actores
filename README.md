@@ -5,13 +5,3 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 > **⚠️ Nota sobre el código**: Este proyecto contiene partes generadas con asistencia de IA para propósitos educativos. Los componentes clave han sido revisados y ajustados manualmente.
-
-## 🏗️ Arquitectura del Sistema
-
-```plaintext
-src/
-├── main/
-│   └── scala/
-│       ├── Actores/          # Implementación de actores Akka
-│       ├── GUI/              # Interfaz gráfica Swing
-│       └── Main.scala        # Punto de entrada
